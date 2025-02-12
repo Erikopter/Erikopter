@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Erikopter
-- 👀 I’m interested in Embedded Systems
-- 🌱 I’m currently learning Embedded Systems and Programming principles
-- 💞️ I’m looking to collaborate on DIY projects involving these subjects
-- 📫 How to reach me: erik.castaneda.sgh@gmail.com
+- 👀 I’m interested in Videogames and Open source applications
+- 💞️ I’m looking to collaborate on DIY projects and gaming mods
+- 📫 How to reach me: send me a message
 
 <!---
 Erikopter/Erikopter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
